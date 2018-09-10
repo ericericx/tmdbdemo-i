@@ -1,3 +1,1 @@
-# tmdbdemo-i
-
-The Movie Database Demo!
+# The Movie Database Demo!
